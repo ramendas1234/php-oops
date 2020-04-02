@@ -1,0 +1,44 @@
+.textInput{
+    border-radius: 0px;
+    height: 40px;
+    box-shadow: none;
+}
+.div-wrapper{
+    margin: 5% 0px;
+    display: inline-block;
+    width: 100%;
+}
+.div-inner{
+    padding: 15px 30px;
+    background-color: #efefef;
+    border: #c5cdd4 dashed 2px;
+}
+.error{
+    color: red;
+}
+.cstm-btn{
+    height: auto;
+    background-color: #51bf2d;
+    padding: 10px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 800;
+    text-decoration: none;
+    box-shadow: #8a8a8a 1px 2px 4px 0px;
+}
+a.cstm-btn:hover{
+    text-decoration: none;
+    color: #fff;
+    background-color: #bf552d;
+    transition: ease 0.5s;
+}
+form button.search-btn{
+                height: 33px;
+                width: 40px;
+                float: right;
+                position: absolute;
+                top: 0px;
+                right: 16px;
+                box-shadow: none;
+                border: none;
+            }
